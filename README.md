@@ -1,5 +1,9 @@
-# Pavnesh-Newton-Nov-batch
-<!DOCTYPE HTML>
+
+
+
+
+
+    <!DOCTYPE HTML>
 <html><head><title>Food Recipe</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -158,7 +162,7 @@ Oil your grill or a cast-iron pan, and grill or sear those patties.</p>
 
 <div id="about">
 <h2>About Us </h2>
-<img src="https://miro.medium.com/max/1400/0*lzZ6ZCYh-J2yQmPE.gif" width="1400px" height="800px"><br>
+<img src="https://cdn.searchenginejournal.com/wp-content/uploads/2018/08/purplerockscissors-about-us-5ec5b2d633e20.png" width="1400px" height="800px"><br>
 
 </div>
 
@@ -179,5 +183,3 @@ Oil your grill or a cast-iron pan, and grill or sear those patties.</p>
 
 </body>
 </html>
-
-
