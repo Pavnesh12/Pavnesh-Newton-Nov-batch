@@ -6,75 +6,7 @@
     <!DOCTYPE HTML>
 <html><head><title>Food Recipe</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-#home{
 
-background-color:#333;
-overflow:hidden;
-color:black;
-}
-#home a{
-
-float:center;
-color:#f2f2f2;
-text-align:center;
-padding: 14px 17px;
-text-decoration: none;
-font-size: 27px;
-}
-#recipe{
-background-color: gray;
-text-align:center;
-color: white;
-font-size: 20px;
-}
-h1{
-text-align:center;
-color:white;
-padding:1px;
-}
-li{
-display:inline;
-}
-
-#ic{
-text-align:center;
- word-spacing: 30px;
-font-size: 30px;
-}
-
-
-.centered{
-position:absolute;
-top:30%;
-left:30%;
-}
-#contact{
-padding:20px;
-margin:20px;
-text-align:left;
-text-decoration:none;
-font-size:30px;
-}
-h2{
-font-size:50px;
-text-decoration:none;
-background-color:black;
-color:white;
-
-}
-#s{
-color:white;
-border-radius:5%;
-border:5px solid black;
-font-size:40px; 
-float:center;
-padding: 20px;
-text-decoration: none;
-}
-
-
-</style>
 
 </head>
 <body>
